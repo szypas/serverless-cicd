@@ -1,7 +1,6 @@
 package serverless;
 
 /**
- *
  * @author TStachlewski
  */
 public class HelloWorldInput {
